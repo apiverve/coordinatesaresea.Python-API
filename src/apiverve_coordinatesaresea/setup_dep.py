@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='apiverve_coordinatesaresea',
-    version='1.1.7',
+    version='1.1.9',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
